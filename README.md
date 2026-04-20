@@ -12,4 +12,7 @@
 <li>
 	<a href="https://drive.google.com/file/d/1ke5-SCAW1_A7jBHq5iUhxf0k-WPHIbsc/view?usp=sharing" target="_blank">Тест-кейсы (TestIT)</a> - примеры тест-кейсов, созданных в <strong>TMS TestIT</strong> по регистрации, авторизации и списку товаров.
 </li> 
+<li>
+	<a href="https://drive.google.com/file/d/1igEKMYDqjw3pE1Wzms5z3O3MxK0nChwq/view?usp=sharing" target="_blank">Отчеты о дефектах (Jira)</a> - примеры отчетов о дефектах, созданных в <strong>Jira</strong>.
+</li> 
 </ul>
