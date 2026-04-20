@@ -1,6 +1,6 @@
 # 🛒 Online store testing
 
-Я протестировала интернет-магазин https://demoshopping.ru/ и подготовила различные виды тестовой документации:
+Я протестировала интернет-магазин https://intern.demoshopping.ru/ и подготовила различные виды тестовой документации:
 
 <ul>
 <li>
@@ -8,5 +8,8 @@
 </li>
 <li>
 	<a href="https://docs.google.com/spreadsheets/d/1zwAYj3B8Q0vAtImqSMXVn949CJlXRxjQOvJoatllo4g/edit?usp=sharing" target="_blank">Чек-лист</a> на основании предоставленных User Story, включающий в себя список проверок, в том числе с помощью техник тест-дизайна: <strong>классов эквивалентности</strong> и <strong>попарного тестирования</strong>.
+</li> 
+<li>
+	<a href="https://drive.google.com/file/d/1ke5-SCAW1_A7jBHq5iUhxf0k-WPHIbsc/view?usp=sharing" target="_blank">Тест-кейсы (TestIT)</a> - примеры тест-кейсов, созданных в <strong>TMS TestIT</strong> по регистрации, авторизации и списку товаров.
 </li> 
 </ul>
